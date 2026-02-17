@@ -4,6 +4,7 @@
 %--------------------------------------------------------------------------
 clc; clear; close all;
 
+<<<<<<< HEAD:Vibes/Homework1Kasmiersky.m
 %% bii
 x = -5:0.01:5;
 v = -5:0.01:5;
@@ -92,3 +93,13 @@ for i = 1:length(xs)
     end
 end
 end
+=======
+[T,a,P,rho,nu,mu] = atmosisa(41475)
+
+v = 600*1.687811;
+
+M = v/a;
+
+
+.
+>>>>>>> 84c892876e4f49acfcbea0e64015fd815edb0cd0:Vibes/Homework 1/Homework1Kasmiersky.m
